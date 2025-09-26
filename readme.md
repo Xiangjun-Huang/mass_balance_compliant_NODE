@@ -1,1 +1,1 @@
-The code illustrated the robustly mass balance_compliant neural ODE framework for wastewater biokinetic modelling. The example is set on extended Activated Sludge Model No. 1.
+The code illustrats the robustly mass balance_compliant neural ODE framework for wastewater biokinetic modelling. The hard constraints are embedded into the neural ODE architecture. The example is set on extended Activated Sludge Model No. 1.
